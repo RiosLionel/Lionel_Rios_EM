@@ -31,3 +31,7 @@
 
 Cada actividad deberá estar documentada y alojada en un monorepositorio, con un informe que incluya el diseño del circuito, la simulación en Proteus, los cálculos teóricos correspondientes, la comparación entre los valores teóricos y los resultados de la simulación, y las conclusiones obtenidas.
 El plazo de entrega es el correspondiente a la finalización de la semana.
+
+![Investigacion](./A-%20Investigación/)
+![Prototipo](./B-%20Prototipo/)
+![Presentacion](./C-%20Presentación/)
