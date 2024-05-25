@@ -1,4 +1,4 @@
-![alt text](./Recursos_Visuales/image.png)
+![alt text](./image.png)
 
 ## MATERIA : ELECTRONICA MICROCONTROLADA
 
