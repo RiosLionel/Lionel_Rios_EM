@@ -12,5 +12,5 @@
 
 [Primera_semana](./Proyecto%201/)
 
-[Segunda_semana](./)
+[Segunda_semana](./Proyecto%202/)
 
